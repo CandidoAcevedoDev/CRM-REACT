@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "nombre": "Manuel Carlos",
+      "empresa": "Kola Real",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Excelente cliente, tiene un prestamo.",
+      "id": 2
+    },
+    {
+      "nombre": "Candido Acevedo",
+      "empresa": "Medrasoft c&a",
+      "email": "candidoaacevedom@gmail.com",
+      "telefono": "5824688989",
+      "notas": "Cliente con mucho dinero",
+      "id": 3
+    }
+  ]
+}
